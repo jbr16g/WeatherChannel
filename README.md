@@ -13,7 +13,7 @@ Jason Randall
 Use the Apixu API to obtain weather data based on a user’s City name, US zip code, Latitude and Longitude, or IP address.
 
 ### View Project:
-https://github.com/jbr16g/WeatherChannel/ 
+https://ide.c9.io/jbr16g/randall_extracredit
 
 ### Lessons Learned in the Assignment:
 1. I learned how to build an application using an API
